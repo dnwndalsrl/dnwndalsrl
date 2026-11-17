@@ -44,7 +44,7 @@ Vue와 React를 기반으로 금융·공공·커머스 분야의 사용자 웹�
 
 웹페이지 분석을 바탕으로 테스트 시나리오를 생성하고, Playwright로 브라우저 테스트를 실행하며 결과를 관리하는 서비스입니다.
 
-`TypeScript` `Playwright` `GitHub Actions` `Supabase` `Vercel`
+`Nuxt 4` `Vue 3` `TypeScript` `OpenAI API` `Playwright` `Supabase` `GitHub Actions` `Vercel` · 개발 도구: `Codex`
 
 ## 📚 Studies & Collaboration
 
