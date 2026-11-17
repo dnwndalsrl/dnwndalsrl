@@ -26,3 +26,13 @@ Vue와 React를 기반으로 금융·공공·커머스 분야의 사용자 웹�
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+## 🤖 AI & LLM
+
+**LLM & Development Tools**  
+![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-202123?style=flat-square&logo=openai&logoColor=white)
+
+**AI Integration**  
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
